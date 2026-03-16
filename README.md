@@ -107,8 +107,8 @@ Through this project, I learned how to:
 
 **Jahid Hasan**
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/Md-Jahid-Hasan-10
+* LinkedIn: https://www.linkedin.com/in/jahid-hasan-a3b51b3a0/
 
 ---
 
