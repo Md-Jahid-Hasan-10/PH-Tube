@@ -94,12 +94,6 @@ Through this project, I learned how to:
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots or GIF demos of your project here*
-
----
-
 ## 🔮 Future Improvements
 
 * Add **video playback page**
